@@ -1,5 +1,37 @@
 .Homepage
 {
+    background-color: #D8CFD1;
     text-align: center;
     font-family: sans-serif;
+    margin: auto;
+}
+
+.Portfolio
+{
+    background-color: #D8CFD1;
+    text-align: center;
+    font-family: sans-serif;
+    color: #7D8377;
+    margin: auto;
+}
+
+.Contact
+{
+    background-color: #D8CFD1;
+    text-align: center;
+    color: #7D8377;
+    margin: auto;
+}
+
+.navBar
+{
+    background-color: #00B596;
+    margin: auto;
+}
+
+.pixImage
+{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
 }
